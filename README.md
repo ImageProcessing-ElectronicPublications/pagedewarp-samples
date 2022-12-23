@@ -12,6 +12,10 @@ Samples image for [Page dewarp](https://github.com/ImageProcessing-ElectronicPub
 
 ![boston_cooking_b_thresh.png](images/boston_cooking_b_thresh.png)
 
+![linguistics_thesis_a.jpg](images/linguistics_thesis_a.jpg)
+
+![linguistics_thesis_b.jpg](images/linguistics_thesis_b.jpg)
+
 
 ---
 
